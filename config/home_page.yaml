@@ -1,0 +1,17 @@
+element:
+  home_page:
+    product_href_loc:
+      xpath:
+        .//*[@id='root']/div/div[1]/div[2]/div/div[2]/div[2]/div/a[2]
+    resource_href_loc:
+      xpath:
+        .//*[@id='root']/div/div[1]/div[2]/div/div[2]/div[2]/div/a[3]
+    member_href_loc:
+      xpath:
+        .//*[@id='root']/div/div[1]/div[1]/div/div[3]/a[2]
+    shopDetail_member_href_loc:
+      xpath:
+        .//*[@id="root"]/div/div[1]/div[1]/div[1]/div/div[3]/a[2]
+    shoppingCart_div_loc:
+      xpath:
+        .//*[@id='root']/div/div[1]/div[2]/div/div[1]/div[3]/a/div

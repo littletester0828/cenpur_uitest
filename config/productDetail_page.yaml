@@ -1,0 +1,68 @@
+element:
+  productDetail_page:
+    firstLineName:
+        xpath:
+          .//*[@id='root']/div/div[5]/div/table/tbody/tr[1]/td[2]/a
+    MBXHomePage_link_loc:
+      css:
+        div#root div._1tAA6Ln37blCcf8MrkEK95 > div > a:nth-child(2)
+    MBXProductPage_link_loc:
+      css:
+        div#root div._1tAA6Ln37blCcf8MrkEK95 > div > a:nth-child(4)
+    good_img_loc:
+      css:
+        div#root div.c5UyBVRq11XupNOOxjcYZ > img
+    goodCode_text_loc:
+      css:
+        div#root div._1n7UjrtzLRgbhOu-viMwC9 > span
+    goodType_text_loc:
+      css:
+        div#root span.iumuxQCEMPBtbuSYd0avx
+    goodPrice_text_loc:
+      css:
+        div#root span.UD9I3ysXW3IV8nLZywc9P
+    goodName_text_loc:
+      css:
+        div#root span._2wQsKSDh9-Knjng0wHFVXh
+    goodPriceType_text_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[2]/div/div[3]/div[2]/span[2]
+    goodTagoutNum_text_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[2]/div/div[3]/div[3]/div[1]/span[2]
+    goodStartNum_text_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[2]/div/div[3]/div[3]/div[2]/span[2]
+    goodSurplusNum_text_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[2]/div/div[4]/span[2]
+    goodNum_textBox_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[2]/div/div[4]/div/input
+    goodCollection_button_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[1]/div[2]/span/span
+    favoriteCode_text_loc:
+      xpath:
+        .//*[@id='root']/div/div[1]/div[2]/div[2]/div[2]/div/span/div/div/div/table/tbody/tr/td[2]/a/div[2]/p[1]
+    shop_img_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[3]/div/div[2]/img
+    shopPhone_text_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[3]/div/div[3]/span
+    goShop_button_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[3]/div/div[5]/button[1]
+    shopCollection_button_loc:
+      xpath:
+        .//*[@id='root']/div/div[3]/div/div/div[3]/div/div[5]/button[2]
+    faveritePageShop_link_loc:
+      xpath:
+        .//*[@id='root']/div/div[1]/div[2]/div[2]/div[2]/div/div/a[2]
+    favoritePageShopName_text_loc:
+      xpath:
+        .//*[@id='root']/div/div[1]/div[2]/div[2]/div[2]/div/span/div/div/ul/li[1]/p
+    productList_name_text_loc:
+      xpath:
+        .//*[@id='root']/div/div[5]/div/table/tbody/tr[1]/td[1]/a

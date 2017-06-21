@@ -1,0 +1,31 @@
+mail:
+  sender:
+    username:
+      yingang0828@163.com
+    password:
+      xian101628
+  receiver:
+    username:
+      365419965@qq.com
+
+url:
+  home_page:
+    http://10.82.12.25/centralize-purchase/#/
+  product_page:
+    http://10.82.12.25/centralize-purchase/#/product
+  member_page:
+    http://10.82.12.25/centralize-purchase/#/member
+  goods_page:
+    http://10.82.12.25/centralize-purchase/#/member/goods
+  addGoods_page:
+    http://10.82.12.25/centralize-purchase/#/member/addGoods
+  favorite_page:
+    http://10.82.12.25/centralize-purchase/#/member/favorite
+  account_page:
+    http://10.82.12.25/centralize-purchase/#/member/account
+  message_page:
+    http://10.82.12.25/centralize-purchase/#/member/message
+  addressManger_page:
+    http://10.82.12.25/centralize-purchase/#/member/addressManger
+  shopDetail_page:
+    http://10.82.12.25/centralize-purchase/#/storeDetail/?id=5

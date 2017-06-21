@@ -1,0 +1,17 @@
+element:
+  login_page:
+    switch_button_loc:
+      xpath:
+        //html/body/div[2]/div/div/div[2]/div/div[3]/span/button
+    username_input_loc:
+      xpath:
+        html/body/div[2]/div/div[3]/div[1]/input
+    password_input_loc:
+      xpath:
+        .//*[@id='loginPassword']
+    verifyCode_input_loc:
+      xpath:
+        .//*[@id='loginVerifyCode']
+    login_button_loc:
+      xpath:
+        html/body/div[2]/div/div[7]/button

@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//page/buy_page.py=utf-8
+encoding//page/home_page.py=utf-8
+encoding//page/login_page.py=utf-8
+encoding//page/tagout_page.py=utf-8
+encoding//pyse/pyse.py=utf-8
+encoding//testcase/testLogin.py=utf-8
+encoding//testcase/test_trading.py=utf-8
+encoding//testlibs/log.py=utf-8
+encoding//utils/excelUtil.py=utf-8
+encoding/run_all.py=utf-8

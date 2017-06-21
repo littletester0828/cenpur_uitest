@@ -1,0 +1,11 @@
+testdata:
+  login_page:
+    - username: 18215526975
+      psw: ZFf12345
+      except: True
+    - username: 18215526975
+      psw:
+      except: False
+    - username: 15881122294
+      psw: 12345678
+      except: False
